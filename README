@@ -1,0 +1,13 @@
+jQuery latLonSelector is a simple jQuery plugin to enable Yelp-style floating
+elements that follow you as you scroll down the page. Yes they can be kind of
+annoying, but I think they can be useful in certain contexts.
+
+jQuery makes this so simple that it's almost easier to just write your own,
+but I'm lazy, so I figure others might be too.
+
+Usage:
+  $('#some_div').fixedFollower();
+
+Requirements:
+  jQuery
+
